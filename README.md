@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Crypto and German
 - 👯 I’m looking to collaborate on any cool projects
 - ⚡ Fun fact: I love running 🏃
-- 📝 Check My latest article on medium:
+- 📝 Blogger: check my latest article on Medium:
     <br><br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dioxmio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dioxmio/0" alt="Recent Article 0"></a>
 
 <!--
