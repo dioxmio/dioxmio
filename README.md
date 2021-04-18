@@ -10,8 +10,7 @@
 - 🌱 &nbsp;I’m currently learning Crypto and German
 - 👯 &nbsp;I’m looking to collaborate on any cool projects
 - ⚡ &nbsp;Fun fact: I love running 🏃
-- 📝 &nbsp;Blogger: check my latest article on Medium:
-    <br><br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dioxmio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dioxmio/0" alt="Recent Article 0"></a>
+- 📝 &nbsp;Blogger: check my Medium profile <a target="_blank" href="https://dioxmio.medium.com">here</a>.
 
 <!--
 **dioxmio/dioxmio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
