@@ -1,4 +1,38 @@
 ### Hi there 👋
+
+## Technologies I Use
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="15%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>JAVASCRIPT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>Typescript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>React</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="15%" align="center">
+        <span><strong>Flutter</strong></span><br><br><br>
+        <img width="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      </tbody>
+</table>
+<br>
+
 <p align="left">
    <img src ="https://vercel-dioxmio.vercel.app/api?username=dioxmio&show_icons=true&count_private=true&theme=darcula&hide_border=true&include_all_commits=true&bg_color=00000000">
  </p>
