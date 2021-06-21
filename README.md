@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Technologies I Use
-
 <br>
 
 <p align="left">
@@ -18,7 +16,7 @@
 - 📝 &nbsp;Blogger: check my Medium profile <a target="_blank" href="https://dioxmio.medium.com">here</a>.
 
 <br/>
-Technologies I use
+## Technologies I Use
 
 <br/>
 <br/>
