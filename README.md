@@ -6,6 +6,7 @@
 - ⚡ &nbsp;Fun fact: I love running 🏃
 - 📝 &nbsp;Blogger: check my Medium profile <a target="_blank" href="https://dioxmio.medium.com">here</a>.
 
+<br />
 
 ## Technologies I Use
 
@@ -39,6 +40,7 @@
       </tbody>
 </table>
 
+<br />
 
 ## Stats
 
