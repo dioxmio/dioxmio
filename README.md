@@ -18,6 +18,10 @@
 - 📝 &nbsp;Blogger: check my Medium profile <a target="_blank" href="https://dioxmio.medium.com">here</a>.
 
 <br/>
+Technologies I use
+
+<br/>
+
 <table>
   <tbody>
     <tr valign="top">
