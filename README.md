@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 💼 &nbsp;I’m currently working at Lingoda
-- 🌱 &nbsp;I’m currently learning Crypto and German
+- 💼 &nbsp;I’m currently working at Stripe
 - 👯 &nbsp;I’m looking to collaborate on any cool projects
 - ⚡ &nbsp;Fun fact: I love running 🏃
 - 📝 &nbsp;Blogger: check my Medium profile <a target="_blank" href="https://dioxmio.medium.com">here</a>.
